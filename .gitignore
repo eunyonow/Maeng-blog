@@ -1,0 +1,13 @@
+# default 
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+.idea
+*.iml
+
+# add_by_yunho
+_local/
